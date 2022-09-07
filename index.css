@@ -14,8 +14,7 @@ body {
     display: flex;
     justify-content: space-around;
 
-    
-    width: 100%;
+    width: 575px;
     height: 385px;
     background-color: #047857;
 }
@@ -28,18 +27,15 @@ body {
 
 
 .team-title {
-    
     margin-bottom: 21px;
     
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 40px;
     color: white;
-    
 }
 
 .point-window {
-    
     display: flex;
     align-self: center;
    
@@ -50,8 +46,7 @@ body {
     
     justify-content: center;
     align-items: center;
-
-     
+  
     font-family: CursedTimer;
     font-size: 90px;
     color: #F94F6D;  
