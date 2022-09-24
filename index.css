@@ -45,13 +45,13 @@ body {
     height: 120px;
     background-color: #080001;
     border-radius: 5px;
-    
-    justify-content: center;
-    align-items: center;
-  
+
     font-family: CursedTimer;
     font-size: 90px;
+    justify-content: center;
+    align-items: center;
     color: #F94F6D;  
+    
 }
 
 
